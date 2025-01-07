@@ -1,0 +1,14 @@
+                                              critique           film_title
+0    forrest gump de robert zemeckis réalisateur de...         Forrest Gump
+1    une immense rèussite du cinèma hollywoodien ro...         Forrest Gump
+2    un film immense rempli de poésie et de bons se...         Forrest Gump
+3    le matin quand il fait bon et beau normal quoi...         Forrest Gump
+4    lhistoire dun gars un peu simplet qui traverse...         Forrest Gump
+..                                                 ...                  ...
+745  bouleversant triste passionnant eastwood ma im...  Million Dollar Baby
+746   million dollar baby  très grand film de clint...  Million Dollar Baby
+747  une dimension magique pour ce film très émouva...  Million Dollar Baby
+748  incontestablement le meilleur film de clint ea...  Million Dollar Baby
+749  dernier très grand film de clint eastwood à ce...  Million Dollar Baby
+
+[750 rows x 2 columns]
