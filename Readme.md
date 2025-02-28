@@ -21,10 +21,9 @@ Ce projet NLP analyse les critiques de spectateurs pour les 50 meilleurs films d
 - Streamlit (interface)
 
 ## Structure
+├── Allocine_movie_reviews.ipynb  &nbsp;&nbsp;&nbsp;     # Notebook du Scraping des critiques  
 ├── Sentimental_analysis.ipynb   &nbsp;&nbsp;&nbsp;   # Notebook principal  
-├── app.py                    &nbsp;&nbsp;&nbsp;      # Interface Streamlit  
-├── critiques_films.txt      &nbsp;&nbsp;&nbsp;        # Données brutes  
-├── movie_titles.json      &nbsp;&nbsp;&nbsp;          # Liste des films  
+├── interface.py                    &nbsp;&nbsp;&nbsp;      # Interface Streamlit  
 ├── requirements.txt      &nbsp;&nbsp;&nbsp;          # Dépendances  
 └── README.md            &nbsp;&nbsp;&nbsp;          # Documentation   
 
