@@ -10,3 +10,13 @@ __pycache__
 nlp/
 # Ignorer les fichiers de logs
 *.log
+
+# Environnement et secrets
+.env
+*.env
+#ignorer l'output.txt
+output.txt
+
+résumé_12 hommes en colÃ¨re.txt
+test.ipynb 
+*.txt 
